@@ -18,4 +18,4 @@
 
 ###学习React之前要掌握的JS知识
 
-![Screen Shot 2022-03-09 at 17.04.39](/Users/cktonysw/Library/Application Support/typora-user-images/Screen Shot 2022-03-09 at 17.04.39.png)
+![Screen Shot 2022-03-09 at 17.04.39](https://github.com/letsgomelck/Lifelong-learning/blob/main/%20%E8%87%AA%E5%AD%A6React.assets/Screen%20Shot%202022-03-09%20at%2017.04.39.png?raw=true)
